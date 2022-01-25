@@ -27,12 +27,12 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: Korean
-        level: Native
+    # languages:
+    #   - idiom: Korean
+    #     level: Native
 
-      - idiom: English
-        level: Intermediate
+    #   - idiom: English
+    #     level: Intermediate
 
       # - idiom: Spanish
       #   level: Professional
@@ -61,16 +61,15 @@ education:
       university: Pohang University of Science and Technology (POSTECH)
       time: 2016 - Present
 experiences:
+    - role: Student Volunteer
+      time: Feb.2022
+      company: KIISE Computer System Society
     - role: Undergraduated Student Research Intern
       time: Jan.2022 - Feb.2022
       company: Accelerated Computing Platform Laboratory in POSTECH, Prof, Gwangsun Kim
     - role: Summer Internship
       time: Jun.2021 - Aug.2021
       company: SK hynix Inc, Solution SW
-services:
-    - role: Student Volunteer
-      time: Feb.2022
-      company: KIISE Computer System Society
 # projects:
 #     title: Projects
 #     intro: >
