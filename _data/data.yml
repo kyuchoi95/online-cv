@@ -50,6 +50,19 @@ sidebar:
       - item: Memory System
         link:
 
+    skills:
+      - item: C/C++
+        link:
+
+      - item: Linux
+        link:
+      
+      - item: Python
+        link:
+      
+      - item: Verilog
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
