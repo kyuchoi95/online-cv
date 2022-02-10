@@ -94,9 +94,9 @@ projects:
     intro: 
     assignments:
       - title: Deep Learning Hardware Design Contest
-        link: "#"
+        # link: "#"
         tagline: "Optimizing given pretrained Deep Learning Network model while considering power, speed, and accuracy. 
-        Implementing optimized model on an FPGA board."
+        Implementing optimized model on an FPGA board. Feb.2022 - Present"
 
       # - title: DevStudio
       #   link: "#"
