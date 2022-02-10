@@ -50,18 +50,18 @@ sidebar:
       - item: Memory System
         link:
 
-    skills:
-      - item: C/C++
-        link:
+    # skills:
+    #   - item: C/C++
+    #     link:
 
-      - item: Linux
-        link:
+    #   - item: Linux
+    #     link:
       
-      - item: Python
-        link:
+    #   - item: Python
+    #     link:
       
-      - item: Verilog
-        link:
+    #   - item: Verilog
+    #     link:
 
 career-profile:
     title: Career Profile
@@ -88,7 +88,7 @@ experiences:
       time: Jun.2021 - Aug.2021
       company: SK hynix Inc, Solution SW
       details: Creating parsing tool to monitor for abnormalities in the regression test, using Python
-      
+
 # projects:
 #     title: Projects
 #     intro: >
@@ -138,21 +138,21 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-# skills:
-#     title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-#     toolset:
-#       - name: C/C++
-#         level: 70%
+    toolset:
+      - name: C/C++
+        level: 70%
 
-#       - name: Linux
-#         level: 70%
+      - name: Linux
+        level: 70%
 
-#       - name: Python
-#         level: 80%
+      - name: Python
+        level: 80%
 
-#       - name: Verilog
-#         level: 60%
+      - name: Verilog
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
