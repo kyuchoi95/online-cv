@@ -44,7 +44,7 @@ sidebar:
       - item: Computer Architecture
         link:
 
-      - item: Deep Learning Accelerator
+      - item: Domain Specific Accelerator
         link:
 
       - item: Memory System
@@ -71,7 +71,7 @@ career-profile:
       Science and Technology (POSTECH), Korea.
 
       He is currently interested in computer system, computer architecture,
-      deep learning accelerator, and memory system.
+      domain specific accelerator, and memory system.
 education:
     - degree: BSc in Mathematics, Computer Science and Engineering (Double Major)
       university: Pohang University of Science and Technology (POSTECH)
