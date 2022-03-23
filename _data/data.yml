@@ -44,10 +44,7 @@ sidebar:
       - item: Computer Architecture
         link:
 
-      - item: Domain-Specific Accelerator
-        link:
-
-      - item: Memory System
+      - item: Operating System
         link:
 
     # skills:
@@ -71,7 +68,7 @@ career-profile:
       Science and Technology (POSTECH), Korea.
 
       He is currently interested in computer system, computer architecture,
-      domain-specific accelerator, and memory system.
+      and operating system.
 education:
     - degree: BSc in Mathematics, Computer Science and Engineering (Double Major)
       university: Pohang University of Science and Technology (POSTECH)
@@ -93,14 +90,14 @@ experiences:
       company: The Republic of Korea Army, 39th Infantry Division 
       details: Military Police (MP)
 
-projects:
-    title: Projects
-    intro: 
-    assignments:
-      - title: Deep Learning Hardware Design Contest
-        link: "https://semicon.disu.ac.kr/LOCnLOS/AIX/introduction"
-        tagline: "Optimizing given pretrained Deep Learning Network model while considering power, speed, and accuracy. 
-        Implementing optimized model on an FPGA board. Feb.2022 - Present"
+# projects:
+#     title: Projects
+#     intro: 
+#     assignments:
+#       - title: Deep Learning Hardware Design Contest
+#         link: "https://semicon.disu.ac.kr/LOCnLOS/AIX/introduction"
+#         tagline: "Optimizing given pretrained Deep Learning Network model while considering power, speed, and accuracy. 
+#         Implementing optimized model on an FPGA board. Feb.2022 - Present"
 
       # - title: DevStudio
       #   link: "#"
