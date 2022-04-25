@@ -94,13 +94,15 @@ projects:
     title: Projects
     intro: 
     assignments:
-      - title: Development of optimization model by predicting NS SHOP+ sales performance
-        link: "https://www.bigcontest.or.kr/introduce/history2020.php"
-        tagline: "2020 Big Contest, Data analysis field. Jul.2020 - Sep.2020"
 
       - title: Performance Evaluation of Scan Operation with NDPX
         link: "#"
         tagline: "Offloading memory-intensive operation on NDP Unit. Mar.2022 - Present"
+
+      - title: Development of optimization model by predicting NS SHOP+ sales performance
+        link: "https://www.bigcontest.or.kr/introduce/history2020.php"
+        tagline: "2020 Big Contest, Data analysis field. Jul.2020 - Sep.2020"
+
 
       # - title: Tempo
       #   link: "#"
