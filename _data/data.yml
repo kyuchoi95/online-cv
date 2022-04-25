@@ -90,18 +90,17 @@ experiences:
       company: The Republic of Korea Army, 39th Infantry Division 
       details: Military Police (MP)
 
-# projects:
-#     title: Projects
-#     intro: 
-#     assignments:
-#       - title: Deep Learning Hardware Design Contest
-#         link: "https://semicon.disu.ac.kr/LOCnLOS/AIX/introduction"
-#         tagline: "Optimizing given pretrained Deep Learning Network model while considering power, speed, and accuracy. 
-#         Implementing optimized model on an FPGA board. Feb.2022 - Present"
+projects:
+    title: Projects
+    intro: 
+    assignments:
+      - title: Development of optimization model by predicting NS SHOP+ sales performance
+        link: "https://www.bigcontest.or.kr/introduce/history2020.php"
+        tagline: "2020 Big Contest, Data analysis field. Jul.2020 - Sep.2020"
 
-      # - title: DevStudio
-      #   link: "#"
-      #   tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Performance Evaluation of Scan Operation with NDPX
+        link: "#"
+        tagline: "Offloading memory-intensive operation on NDP Unit. Mar.2022 - Present"
 
       # - title: Tempo
       #   link: "#"
@@ -146,13 +145,13 @@ skills:
 
     toolset:
       - name: C/C++
-        level: 70%
+        level: 80%
 
       - name: Linux
         level: 70%
 
       - name: Python
-        level: 80%
+        level: 60%
 
       - name: Verilog
         level: 60%
